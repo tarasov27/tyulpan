@@ -1,0 +1,8 @@
+@media(max-width: 991px){
+.first-level {
+    white-space: normal;
+}
+.tovary {
+	    line-height: inherit;
+}
+}
